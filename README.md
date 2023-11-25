@@ -1,13 +1,8 @@
-## Hello, my fellow players! 👋
+<h2>Hello, my fellow players! 👋</h2>
+<p>These are my favorite projects, check them out if interested:</p>
+<ul>
+  <li><a href="https://exismyssav.netlify.app/">Sorting Algorithm Visualizer</a> - A web app which visualizes sorting algorithms</li>
+  <li><a href="">JournalApp</a> (Work in progress) - Learn new words through journaling</li>
+</ul>
 
-These are my favorite projects, check them out if interested:
-- [Sorting Algorithm Visualizer](https://exismyssav.netlify.app/) &nbsp; &nbsp; 👈️👈️ click on the hyperlink to see it live  
-
-  This is the first-ever functioning project I created. It's not polished but I am proud of it :>
-- [JournalApp]()  
-
-  This is still under development, so the URL might not work as expected. [view repository](https://github.com/exismys/JournalApp)  
-
-Other projects:  
-- Chess Clock - not perfect, but it works :) [view repository](https://github.com/exismys/ExisChessclock)  
-- Vocab - Well, this was the hardest I went into Android development :| [view repository](https://github.com/exismys/Vocab)
+<p>There are other projects lying around here, check them out if you like :)</p>

@@ -1,7 +1,7 @@
 ## Hello, my fellow players! 👋
 
 These are my favorite projects, check them out if interested:
-- [Sorting Algorithm Visualizer](https://exismyssav.netlify.app/) \(👈️👈️ click on the hyperlink to see it live\)  
+- [Sorting Algorithm Visualizer](https://exismyssav.netlify.app/) &nbsp; &nbsp; 👈️👈️ click on the hyperlink to see it live  
 
   This is the first-ever functioning project I created. It's not polished but I am proud of it :>
 - [JournalApp]()  
